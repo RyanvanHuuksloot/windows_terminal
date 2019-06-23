@@ -3,6 +3,10 @@ Due to the fact that I use a mac at work, I wanted to set up a linux terminal on
 
 This repository is how I set up the Windows Terminal on my Windows 10 Machine. I still have a lot of stuff to figure out and expand on but here is the start!
 
+Things I want to add:
+* Copy with Selected Text
+* Paste with Control+v
+
 ## Setup
 Update Windows to the latest distribution of Windows 10. I think your Windows 10 version needs to be above 1923. You can install that here.
 
